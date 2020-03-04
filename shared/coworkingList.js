@@ -1,0 +1,35 @@
+export const COWORKINGLIST = [
+    {
+        id: 0,
+        name: "WeWork1",
+        city: "Seattle",
+        streetAddress: "555 2nd St",
+        cityStateZip: "Seattle, WA 55555",
+        image: "/assets/images/bootstrap-logo.png",
+        featured: false,
+        description: "WeWork is a coworking space in Seattle, WA",
+        hotdeskPricePerHour: 15.00,
+    },
+    {
+        id: 1,
+        name: "WeWork2",
+        city: "Seattle",
+        streetAddress: "555 2nd St",
+        cityStateZip: "Seattle, WA 55555",
+        image: "/assets/images/bootstrap-logo.png",
+        featured: false,
+        description: "WeWork is a coworking space in Seattle, WA",
+        hotdeskPricePerHour: 12.00,
+    },
+    {
+        id: 2,
+        name: "WeWork3",
+        city: "Seattle",
+        streetAddress: "555 2nd St",
+        cityStateZip: "Seattle, WA 55555",
+        image: "/assets/images/bootstrap-logo.png",
+        featured: false,
+        description: "WeWork is a coworking space in Seattle, WA",
+        hotdeskPricePerHour: 18.00,
+    }
+]
